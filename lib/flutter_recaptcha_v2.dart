@@ -117,7 +117,7 @@ class _RecaptchaV2State extends State<RecaptchaV2> {
       window.addEventListener("load", function() {
         setTimeout(function() {
           createStyle();
-        }, 200);
+        }, 400);
       });
       
   """));
